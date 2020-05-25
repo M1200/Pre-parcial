@@ -1,0 +1,10 @@
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\bin\Debug\Pre_Parcial.exe.config
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\bin\Debug\Pre_Parcial.exe
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\bin\Debug\Pre_Parcial.pdb
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\obj\Debug\Pre Parcial.csprojResolveAssemblyReference.cache
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\obj\Debug\Pre_Parcial.Properties.Resources.resources
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\obj\Debug\Pre Parcial.csproj.GenerateResource.Cache
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\obj\Debug\Pre_Parcial.exe
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\obj\Debug\Pre_Parcial.pdb
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\obj\Debug\Pre_Parcial.Form1.resources
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Pre Parcial\obj\Debug\Pre_Parcial.AcercaDeNosotros.resources
